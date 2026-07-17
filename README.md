@@ -7,15 +7,15 @@
 
 ### Core Modules
 
-![SmartSchool360 core modules](docs/screenshots/core-modules.png)
+![SmartSchool360 core modules](docs/screenshots/core-modules.png.png)
 
 ### School Administrator Dashboard
 
-![SmartSchool360 administrator dashboard](docs/screenshots/admin-dashboard.png)
+![SmartSchool360 administrator dashboard](docs/screenshots/School%20administrator%20dashboard.png)
 
 ### Teacher Analytics Dashboard
 
-![SmartSchool360 teacher analytics dashboard](docs/screenshots/teacher-dashboard.png)
+![SmartSchool360 teacher analytics dashboard](docs/screenshots/Teacher%20analytics%20dashboard.png)
 
 ## Overview
 
