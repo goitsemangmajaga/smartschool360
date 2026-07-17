@@ -3,6 +3,19 @@
 ### A secure, comprehensive school management platform built for modern African schools.
 
 [View SmartSchool360](https://woodwella.com/smartschool360)
+## Product Screenshots
+
+### Core Modules
+
+![SmartSchool360 core modules](docs/screenshots/core-modules.png)
+
+### School Administrator Dashboard
+
+![SmartSchool360 administrator dashboard](docs/screenshots/admin-dashboard.png)
+
+### Teacher Analytics Dashboard
+
+![SmartSchool360 teacher analytics dashboard](docs/screenshots/teacher-dashboard.png)
 
 ## Overview
 
